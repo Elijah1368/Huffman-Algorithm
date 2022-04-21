@@ -1,0 +1,1 @@
+##Implementation of the Huffman Algorithm for my TCSS 342 class
